@@ -38,4 +38,4 @@ SECTION 2 : FINAL MODELING
 
 4 Different datasets along with a bunch of different varieties of models gave me enough idea about the modeling process. I used plane K Fold, also I tried with Group K Fold, but OOT results with K Fold were better . Boosting was working fine, while bagging (RF) was not giving as par results. I decided to go with 3 different boosting techniques. CatBoost, LightGBM and XGBoost. I performed repeated experiments on these three models and available 4 datasets, and chose 6  models after manual parameter tuning and feature selection. The overall schematic flow diagram is given in the figure below. Among the final 6 models, all but one XGBoost model was used for 2 types of stacking one with simple Logistic Regression and one with ANN** (Manually Tuned).
 
-![Approach](img.png)
+![Approach](aproach_modeling.png)
