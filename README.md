@@ -5,9 +5,13 @@ Analytics Vidhya's ML competittion ~~ AMEX - 19
 AMEX - 19 Solution Approach 
 
 Public LB ~ 94.48
+
 Public Rank - 4
+
 Private LB ~ 93.17
+
 Private Rank - 5
+
 
 Mudit Tiwari
 
