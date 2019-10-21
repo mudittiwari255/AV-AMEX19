@@ -46,5 +46,3 @@ SECTION 2 : FINAL MODELING
 
 Then a simple weighted average of two stacked prediction and one XGB prediction on the basis of CV and LB score was done to get a LB score of ~94.48.
 
-Full Solution Coming Soon. :) 
-
